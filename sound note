@@ -1,0 +1,14 @@
+/project-folder
+    /sounds
+        C.mp3
+        Csharp.mp3
+        D.mp3
+        Dsharp.mp3
+        E.mp3
+        F.mp3
+        Fsharp.mp3
+        Gsharp.mp3
+        Asharp.mp3
+    index.html
+    styles.css
+    scripts.js  <-- Your new JavaScript file
